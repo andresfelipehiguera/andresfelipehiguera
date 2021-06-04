@@ -1,4 +1,4 @@
-https://www.codewars.com/users/andresfelipehiguera/badges/large 
+![codewars_rank](https://www.codewars.com/users/andresfelipehiguera/badges/large)
 
 <!--
 **andresfelipehiguera/andresfelipehiguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
