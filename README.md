@@ -1,6 +1,13 @@
+Programing languages:
+
+[![Generic badge](https://img.shields.io/badge/Python--GREEN.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/SQL--green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/R--yellow.svg)](https://shields.io/)
+
 CodeWars.com Rank:
 
 ![codewars_rank](https://www.codewars.com/users/andresfelipehiguera/badges/large)
+
 
 <!--
 **andresfelipehiguera/andresfelipehiguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
