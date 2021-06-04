@@ -1,4 +1,4 @@
-CodeWars.com:
+CodeWars.com Rank:
 
 ![codewars_rank](https://www.codewars.com/users/andresfelipehiguera/badges/large)
 
