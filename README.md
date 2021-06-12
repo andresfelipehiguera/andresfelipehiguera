@@ -4,11 +4,11 @@ Programing languages:
 [![Generic badge](https://img.shields.io/badge/SQL--green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/R--orange.svg)](https://shields.io/)
 
-CodeWars.com: https://www.codewars.com/users/andresfelipehiguera
+CodeWars.com Profile: https://www.codewars.com/users/andresfelipehiguera
 
 ![codewars_rank](https://www.codewars.com/users/andresfelipehiguera/badges/large)
 
-Kaggle.com: https://www.kaggle.com/andresfelipehiguera
+Kaggle.com Profile: https://www.kaggle.com/andresfelipehiguera
 
 
 <!--
