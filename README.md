@@ -10,6 +10,9 @@ CodeWars.com Profile: https://www.codewars.com/users/andresfelipehiguera
 
 Kaggle.com Profile: https://www.kaggle.com/andresfelipehiguera
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/andresfelipehiguera/github-readme-stats)
+
+
 
 <!--
 **andresfelipehiguera/andresfelipehiguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
