@@ -6,14 +6,18 @@ Programing languages:
 
 Data Science skills:
 
+[![Generic badge](https://img.shields.io/badge/Applied%20Mathematics--GREEN.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Machine%20Learning--GREEN.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/PySpark--GREEN.svg)](https://shields.io/)
+
 [![Generic badge](https://img.shields.io/badge/Natural%20Language%20Processing--green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Azure--yellow.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Flask--orange.svg)](https://shields.io/)
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresfelipehiguera&layout=compact)](https://github.com/andresfelipehiguera/github-readme-stats) -->
+
+<br>
 
 CodeWars.com Profile: https://www.codewars.com/users/andresfelipehiguera
 
