@@ -14,12 +14,14 @@ Programing languages:
 
 Data Science skills:
 
+[![Generic badge](https://img.shields.io/badge/AWS--green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Azure--green.svg)](https://shields.io/)
+
 [![Generic badge](https://img.shields.io/badge/PowerBI--GREEN.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Applied%20Mathematics--GREEN.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Machine%20Learning--GREEN.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/PySpark--green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Azure--green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Natural%20Language%20Processing--green.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Flask--orange.svg)](https://shields.io/)
