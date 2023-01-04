@@ -10,7 +10,7 @@ Programing languages:
 [![Generic badge](https://img.shields.io/badge/Python--GREEN.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/SQL--green.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/JavaScript--red.svg)](https://shields.io/)
+<!-- [![Generic badge](https://img.shields.io/badge/JavaScript--red.svg)](https://shields.io/) -->
 
 <br>
 
